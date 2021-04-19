@@ -1,14 +1,18 @@
 # agenda
 Aplicação de teste referenciando uma Agenda
 
-Esse é  um projeto Maven com JPA e HIBERNATE
-O hibernate faz a persistência com o banco
+Esse é  um projeto Maven (C.R.U.D) com JPA e HIBERNATE.
 
-Configurar o arquivo persistence.xml conforme seu banco de dados
+O hibernate & JPA faz a persistência com o banco de dados.
 
-Classes de testes localizadas no pacote de teste, br.com.teste:
+Para rodar o projeto:
+
+*Configurar o arquivo persistence.xml conforme seu banco de dados
+
+*Executar as respectivas classes de testes localizadas no pacote br.com.teste:
 
 InserirPessoa
 ListarPessoas
 AlterarPessoa
 DeletarPessoa
+
